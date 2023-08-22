@@ -14,7 +14,7 @@ Download the following files to help you get started:
 
 [KaseiCoin.sol](./Starter_Code/KaseiCoin.sol)
 
-[KaseiCoinCrowdsale.sol](./Starter_Code/KaseiCoinCrowdsale.com)
+[KaseiCoinCrowdsale.sol](./Starter_Code/KaseiCoinCrowdsale.sol)
 
 ## Instructions
 
