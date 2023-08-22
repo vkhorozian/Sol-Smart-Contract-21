@@ -234,6 +234,7 @@ You can also record your interactions with the executed contract as a short vide
 
 * To create an animated GIF, you can use [Recordit](https://recordit.co/) on either macOS or Windows.
 
+![alt=""](Images/RemixDeployment.JPG)
 ---
 
 ## Submission
